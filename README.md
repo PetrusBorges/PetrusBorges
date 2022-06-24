@@ -1,3 +1,8 @@
+### About Me :
+Software developer passionate about applying skills to solve problems, create amazing products and impact lives.
+
+##
+  
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PetrusBorges&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -19,9 +24,9 @@
   <img align="center" alt="Petrus-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 </div>
   
-  ##
+##
   
-  <div align="center"> 
+<div align="center"> 
   <a href="https://www.instagram.com/petrus.borges/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatopetrusborges@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/petrusborgesmachado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
