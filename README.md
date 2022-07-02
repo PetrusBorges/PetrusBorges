@@ -34,6 +34,7 @@ Software developer passionate about applying skills to solve problems, create am
   <a href="https://www.instagram.com/petrus.borges/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatopetrusborges@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/petrusborgesmachado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <p font-weight="bold">PetrusBorges © 2022</p>
 </div>
         
-<p>PetrusBorges © 2022</p>
+
