@@ -36,3 +36,4 @@ Software developer passionate about applying skills to solve problems, create am
   <a href="https://www.linkedin.com/in/petrusborgesmachado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
         
+<p>PetrusBorges © 2022</p>
