@@ -7,6 +7,7 @@ Software developer passionate about applying skills to solve problems, create am
   <a href="https://github.com/PetrusBorges">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PetrusBorges&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetrusBorges&layout=compact&langs_count=7&theme=dark"/>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PetrusBorges&theme=dark)](https://git.io/streak-stats)
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Petrus-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
