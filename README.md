@@ -1,6 +1,6 @@
 
 ### About Me :
-Software developer passionate about applying skils to solve problems, create amazing products and impact lives.
+Software developer passionate about applying skills to solve problems, create amazing products and impact lives.
 
 ##
   
