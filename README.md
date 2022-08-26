@@ -3,7 +3,7 @@
 Software developer passionate about applying skills to solve problems, create amazing products and impact lives.
 
 Libraries
-[React Tilt] - (https://github.com/jonathandion/react-tilt)
+[React Tilt](https://github.com/jonathandion/react-tilt)
 
 ##
   
