@@ -2,9 +2,13 @@
 ### About Me :
 Software developer passionate about applying skills to solve problems, create amazing products and impact lives.
 
-Libraries
+▫ Favorite Libraries React 🔥
+
 <hr/>
-[React Tilt](https://github.com/jonathandion/react-tilt)
+
+▫ [React TILT](https://github.com/jonathandion/react-tilt)<br/>
+▫ [React GSAP](https://github.com/bitworking/react-gsap)<br/>
+▫ [React SWIPER](https://github.com/nolimits4web/swiper)<br/>
 
 ##
   
