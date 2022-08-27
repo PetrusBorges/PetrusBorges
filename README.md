@@ -9,6 +9,7 @@ Software developer passionate about applying skills to solve problems, create am
 ▫ [React TILT](https://github.com/jonathandion/react-tilt)<br/>
 ▫ [React GSAP](https://github.com/bitworking/react-gsap)<br/>
 ▫ [React SWIPER](https://github.com/nolimits4web/swiper)<br/>
+▫ [React AOS](https://github.com/michalsnik/aos)<br/>
 
 ##
   
