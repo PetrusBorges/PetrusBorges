@@ -1,6 +1,18 @@
 
-### About Me :
-Software developer passionate about applying skills to solve problems, create amazing products and impact lives.
+### About Me 🤘🏻 :
+
+Programador, atualmente estudando desenvolvimento focado Front-End, possui forte atuação em JavaScript, com um sólido conhecimento de React.js.
+
+Gosto muito de empreendedorismo e programar, no meu tempo livre aproveito para trabalhar e aperfeiçoar meu entendimento em práticas de programação focada em Front-End.
+
+Trabalho e conheço:
+ ◾ Front-end: HTML5, CSS3, UI/UX Motion Designer, SASS, Bootstrap, Bulma, JavaScript, TypeScript, React;
+ ◾ Back-end: Node.js;
+ ◾ Automatização: Webpack;
+ ◾ Base de dados: PostgreSQL, MongoDB, Docker;
+ ◾ Gerenciamento de projetos: Scrum;
+
+E-mail: contatopetrusborges@gmail.com
 
 ▫ Favorite Libraries 🔥
 
