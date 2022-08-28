@@ -1,5 +1,5 @@
 
-### About Me 🤘🏻 :
+### About Me 👽 :
 
 Programador, atualmente estudando desenvolvimento focado Front-End, possui forte atuação em JavaScript, com um sólido conhecimento de React.js.
 
@@ -14,9 +14,9 @@ Trabalho e conheço:
 
 E-mail: contatopetrusborges@gmail.com
 
-▫ Favorite Libraries 🔥
-
 <hr/>
+
+▫ Favorite Libraries 🔥
 
 ▫ [React TILT](https://github.com/jonathandion/react-tilt)<br/>
 ▫ [React GSAP](https://github.com/bitworking/react-gsap)<br/>
