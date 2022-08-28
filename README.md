@@ -5,16 +5,17 @@ Programador, atualmente estudando desenvolvimento focado Front-End, possui forte
 
 Gosto muito de empreendedorismo e programar, no meu tempo livre aproveito para trabalhar e aperfeiçoar meu entendimento em práticas de programação focada em Front-End.
 
-Trabalho e conheço:
- ◾ Front-end: HTML5, CSS3, UI/UX Motion Designer, SASS, Bootstrap, Bulma, JavaScript, TypeScript, React;
- ◾ Back-end: Node.js;
- ◾ Automatização: Webpack;
- ◾ Base de dados: PostgreSQL, MongoDB, Docker;
- ◾ Gerenciamento de projetos: Scrum;
+Trabalho e conheço: <br/>
+
+ ▫ Front-end: HTML5, CSS3, UI/UX Motion Designer, SASS, Bootstrap, Bulma, JavaScript, TypeScript, React; <br/>
+ ▫ Back-end: Node.js; <br/>
+ ▫ Automatização: Webpack; <br/>
+ ▫ Base de dados: PostgreSQL, MongoDB, Docker; <br/>
+ ▫ Gerenciamento de projetos: Scrum; <br/>
 
 E-mail: contatopetrusborges@gmail.com
 
-<hr/>
+##
 
 ▫ Favorite Libraries 🔥
 
