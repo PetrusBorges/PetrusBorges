@@ -23,6 +23,9 @@ E-mail: contatopetrusborges@gmail.com
 ▫ [React GSAP](https://github.com/bitworking/react-gsap)<br/>
 ▫ [React SWIPER](https://github.com/nolimits4web/swiper)<br/>
 ▫ [React AOS](https://github.com/michalsnik/aos)<br/>
+▫ [React JSON SERVER](https://github.com/typicode/json-server)<br/>
+▫ [React AXIOS](https://github.com/axios/axios)<br/>
+▫ [React ROUTER](https://github.com/remix-run/react-router)<br/>
 
 ##
   
