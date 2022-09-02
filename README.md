@@ -17,7 +17,7 @@ E-mail: contatopetrusborges@gmail.com
 
 ##
 
-▫ Portfólio 🔥
+▫ Portfólio 💻
 
 ▫ [Spider-Man](https://spider-man-miles-morales-rho.vercel.app)<br/>
 ▫ [Nubank](https://nubank-gilt.vercel.app)<br/>
