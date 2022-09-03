@@ -13,7 +13,7 @@ Trabalho e conheço: <br/>
  ▫ Base de dados: PostgreSQL, MongoDB, Docker; <br/>
  ▫ Gerenciamento de projetos: Scrum; <br/>
 
-E-mail: contatopetrusborges@gmail.com
+✉️ E-mail: contatopetrusborges@gmail.com
 
 ##
 
