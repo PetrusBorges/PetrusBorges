@@ -33,7 +33,8 @@ Trabalho e conheço: <br/>
 ▫ [React AOS](https://github.com/michalsnik/aos)<br/>
 ▫ [React JSON SERVER](https://github.com/typicode/json-server)<br/>
 ▫ [React AXIOS](https://github.com/axios/axios)<br/>
-▫ [React ROUTER](https://github.com/remix-run/react-router)<br/>
+▫ [React ROUTER-DOM](https://www.npmjs.com/package/react-router-dom)<br/>
+▫ [React SPRING](https://react-spring.dev/#introduction)<br/>
 
 ##
   
