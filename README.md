@@ -19,6 +19,7 @@ Trabalho e conheço: <br/>
 
 ▫ Portfólio 💻
 
+▫ [Blog Posts](https://blog-posts-staart.vercel.app)<br/>
 ▫ [Spider-Man](https://spider-man-miles-morales-rho.vercel.app)<br/>
 ▫ [Nubank](https://nubank-gilt.vercel.app)<br/>
 ▫ [Outros](https://github.com/PetrusBorges?tab=repositories)<br/>
