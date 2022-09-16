@@ -1,5 +1,5 @@
 
-### Sobre min 👽
+### Sobre min ⚛️
 
 Programador, atualmente estudando desenvolvimento focado em Front-End, possui forte atuação em JavaScript, com um sólido conhecimento de React.js.
 
