@@ -1,7 +1,7 @@
 
 ### Sobre min ⚛️
 
-Programador, atualmente estudando desenvolvimento focado em Front-End, possui forte atuação em JavaScript, com um sólido conhecimento de React.js.
+Programador autodidata, atualmente estudando desenvolvimento focado em Front-End, possui forte atuação em JavaScript, com um sólido conhecimento de React.js.
 
 Gosto muito de empreendedorismo e programar, no meu tempo livre aproveito para trabalhar e aperfeiçoar meu entendimento em práticas de programação focada em Front-End.
 
