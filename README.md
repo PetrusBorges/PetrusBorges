@@ -36,7 +36,6 @@ Trabalho e conheço: <br/>
 ▫ [React AXIOS](https://github.com/axios/axios)<br/>
 ▫ [React ROUTER-DOM](https://www.npmjs.com/package/react-router-dom)<br/>
 ▫ [React SPRING](https://react-spring.dev/#introduction)<br/>
-▫ [React SVGO](https://www.npmjs.com/package/svgo)<br/>
 
 ##
   
