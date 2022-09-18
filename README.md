@@ -19,23 +19,23 @@ Trabalho e conheço: <br/>
 
 ▫ Portfólio 💻
 
+▫ [Nubank](https://nubank-gilt.vercel.app)<br/>
 ▫ [Blog Posts](https://blog-posts-staart.vercel.app)<br/>
 ▫ [Spider-Man](https://spider-man-miles-morales-rho.vercel.app)<br/>
-▫ [Nubank](https://nubank-gilt.vercel.app)<br/>
-▫ [Outros](https://github.com/PetrusBorges?tab=repositories)<br/>
+▫ [Outros Projetos](https://github.com/PetrusBorges?tab=repositories)<br/>
 
 ##
 
 ▫ Favorite Libraries 🔥
 
 ▫ [React TILT](https://github.com/jonathandion/react-tilt)<br/>
-▫ [React GSAP](https://github.com/bitworking/react-gsap)<br/>
-▫ [React SWIPER](https://github.com/nolimits4web/swiper)<br/>
 ▫ [React AOS](https://github.com/michalsnik/aos)<br/>
-▫ [React JSON SERVER](https://github.com/typicode/json-server)<br/>
+▫ [React GSAP](https://github.com/bitworking/react-gsap)<br/>
 ▫ [React AXIOS](https://github.com/axios/axios)<br/>
-▫ [React ROUTER-DOM](https://www.npmjs.com/package/react-router-dom)<br/>
+▫ [React SWIPER](https://github.com/nolimits4web/swiper)<br/>
 ▫ [React SPRING](https://react-spring.dev/#introduction)<br/>
+▫ [React JSON SERVER](https://github.com/typicode/json-server)<br/>
+▫ [React ROUTER-DOM](https://www.npmjs.com/package/react-router-dom)<br/>
 
 ##
   
