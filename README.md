@@ -14,6 +14,7 @@ Trabalho e conheço: <br/>
  ▫ Gerenciamento de projetos: Scrum; <br/>
 
 ✉️ E-mail: contatopetrusborges@gmail.com
+🟥 Staart: https://app.staart.com/profile/f72ccc78-f8b0-4196-aaf2-0eee67f4d345
 
 ##
 
