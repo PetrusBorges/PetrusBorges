@@ -23,6 +23,7 @@ Trabalho e conheço: <br/>
 ▫ [Nubank](https://nubank-gilt.vercel.app)<br/>
 ▫ [Blog Posts](https://blog-posts-staart.vercel.app)<br/>
 ▫ [Spider-Man](https://spider-man-miles-morales-rho.vercel.app)<br/>
+▫ [MyContacts](https://github.com/PetrusBorges/JStack-MyContacts)<br/>
 ▫ [Outros Projetos](https://github.com/PetrusBorges?tab=repositories)<br/>
 
 ##
