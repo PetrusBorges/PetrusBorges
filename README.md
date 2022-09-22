@@ -38,6 +38,7 @@ Trabalho e conheço: <br/>
 ▫ [React SPRING](https://react-spring.dev/#introduction)<br/>
 ▫ [React JSON SERVER](https://github.com/typicode/json-server)<br/>
 ▫ [React ROUTER-DOM](https://www.npmjs.com/package/react-router-dom)<br/>
+▫ [React STYLED-COMPONENTS](https://styled-components.com)<br/>
 
 ##
   
