@@ -36,6 +36,7 @@ Trabalho e conheço: <br/>
 ▫ [React AXIOS](https://github.com/axios/axios)<br/>
 ▫ [React SWIPER](https://github.com/nolimits4web/swiper)<br/>
 ▫ [React SPRING](https://react-spring.dev/#introduction)<br/>
+▫ [React PROP-TYPES](https://www.npmjs.com/package/prop-types)<br/>
 ▫ [React JSON SERVER](https://github.com/typicode/json-server)<br/>
 ▫ [React ROUTER-DOM](https://www.npmjs.com/package/react-router-dom)<br/>
 ▫ [React STYLED-COMPONENTS](https://styled-components.com)<br/>
