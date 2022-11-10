@@ -1,8 +1,10 @@
+##
+
 <a href="https://app.daily.dev/petrusborges">
  <img src="https://api.daily.dev/devcards/f2207aaf6baa4794be59fbfa6f1571d1.png?r=tcj" align="right" width="400" alt="Petrus Borges Machado's Dev Card"/>
 </a>
 
-### Sobre ⚛️
+Sobre ⚛️
 
 Programador autodidata, atualmente estudando desenvolvimento focado em Front-End, possui forte atuação em JavaScript, com um sólido conhecimento de React.js.
 
@@ -18,6 +20,7 @@ Trabalho e conheço: <br/>
 
 ✉️ E-mail: contatopetrusborges@gmail.com
 
+<br/>
 <br/>
 <br/>
 <br/>
