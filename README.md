@@ -1,7 +1,7 @@
 ##
 
 <a href="https://app.daily.dev/petrusborges">
- <img src="https://api.daily.dev/devcards/f2207aaf6baa4794be59fbfa6f1571d1.png?r=hdp" align="right" width="400" alt="Petrus Borges Machado's Dev Card"/>
+ <img src="https://api.daily.dev/devcards/f2207aaf6baa4794be59fbfa6f1571d1.png?r=1cc" align="right" width="400" alt="Petrus Borges Machado's Dev Card"/>
 </a>
 
 Sobre ⚛️
