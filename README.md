@@ -1,3 +1,6 @@
+<a href="https://app.daily.dev/petrusborges">
+ <img src="https://api.daily.dev/devcards/f2207aaf6baa4794be59fbfa6f1571d1.png?r=tcj" align="right" width="400" alt="Petrus Borges Machado's Dev Card"/>
+</a>
 
 ### Sobre ⚛️
 
@@ -14,7 +17,10 @@ Trabalho e conheço: <br/>
  ▫ Gerenciamento de projetos: Scrum; <br/>
 
 ✉️ E-mail: contatopetrusborges@gmail.com
-🟥 Staart Founder: https://app.staart.com/profile/f72ccc78-f8b0-4196-aaf2-0eee67f4d345
+
+<br/>
+<br/>
+<br/>
 
 ##
 
