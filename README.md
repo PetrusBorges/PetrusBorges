@@ -19,7 +19,8 @@ Trabalho e conheço: <br/>
  ▫ Gerenciamento de projetos: Scrum; <br/>
 
 ✉️ E-mail: contatopetrusborges@gmail.com <br/>
-💻 Portfólio: https://petrusborges.vercel.app
+💻 Portfólio: https://petrusborges.vercel.app <br/>
+🌍 Linkedin: https://www.linkedin.com/in/petrusborgesmachado/
 
 ▫ Portfólio 💻
 
