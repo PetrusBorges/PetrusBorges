@@ -6,9 +6,9 @@
 
 Sobre ⚛️
 
-Programador autodidata, atualmente estudando desenvolvimento focado em Front-End, possui forte atuação em JavaScript, com um sólido conhecimento de React.js.
+Programador autodidata, atualmente estudando desenvolvimento focado em Full-Stack, possui forte atuação em JavaScript e React.js, com um sólido conhecimento de Front-End.
 
-Gosto muito de empreendedorismo e programar, no meu tempo livre aproveito para trabalhar e aperfeiçoar meu entendimento em práticas de programação focada em Front-End.
+Gosto muito de empreendedorismo e programar, no meu tempo livre aproveito para trabalhar e aperfeiçoar meu entendimento em práticas de programação focada em Full-Stack.
 
 Trabalho e conheço: <br/>
 
