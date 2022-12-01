@@ -44,6 +44,7 @@ Trabalho e conheço: <br/>
 ▫ [React JSON SERVER](https://github.com/typicode/json-server)<br/>
 ▫ [React ROUTER-DOM](https://www.npmjs.com/package/react-router-dom)<br/>
 ▫ [React STYLED-COMPONENTS](https://styled-components.com)<br/>
+▫ [Check Updates](https://www.npmjs.com/package/npm-check-updates)<br/>
 
 ##
   
