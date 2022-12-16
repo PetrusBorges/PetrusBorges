@@ -6,7 +6,7 @@
 
 Sobre ⚛️
 
-Programador autodidata, atualmente estudando desenvolve tecnologias focadas completas em Full-Stack, possui forte atuação em JavaScript, Typescript, React.js e React Native, com um sólido conhecimento de Front-End.
+Programador autodidata, atualmente desenvolve tecnologias completas em Full-Stack, possui forte atuação em JavaScript, Typescript, React.js e React Native, com um sólido conhecimento de Front-End.
 
 Gosto muito de empreendedorismo e programar, no meu tempo livre aproveito para trabalhar e aperfeiçoar meu entendimento em práticas de programação focada em Full-Stack.
 
