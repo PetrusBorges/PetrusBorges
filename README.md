@@ -6,13 +6,13 @@
 
 Sobre ⚛️
 
-Programador autodidata, atualmente estudando desenvolvimento focado em Full-Stack, possui forte atuação em JavaScript e React.js, com um sólido conhecimento de Front-End.
+Programador autodidata, atualmente estudando desenvolve tecnologias focadas completas em Full-Stack, possui forte atuação em JavaScript, Typescript, React.js e React Native, com um sólido conhecimento de Front-End.
 
 Gosto muito de empreendedorismo e programar, no meu tempo livre aproveito para trabalhar e aperfeiçoar meu entendimento em práticas de programação focada em Full-Stack.
 
 Trabalho e conheço: <br/>
 
- ▫ Front-end: HTML5, CSS3, UI/UX Motion Designer, SASS, Bootstrap, Bulma, JavaScript, TypeScript, React; <br/>
+ ▫ Front-end: HTML5, CSS3, UI/UX Motion Designer, SASS, Bootstrap, Bulma, JavaScript, TypeScript, React, React Native; <br/>
  ▫ Back-end: Node.js; <br/>
  ▫ Automatização: Webpack; <br/>
  ▫ Base de dados: PostgreSQL, MongoDB, Docker; <br/>
