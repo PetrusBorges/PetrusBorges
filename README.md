@@ -25,7 +25,7 @@ Trabalho e conheço: <br/>
 ▫ Portfólio 💻
 
 ▫ [Nubank](https://nubank-gilt.vercel.app)<br/>
-▫ [Spider-Man](https://spider-man-miles-morales-rho.vercel.app)<br/>
+▫ [WAITERAPP](https://github.com/PetrusBorges/WAITERAPP)<br/>
 ▫ [MyContacts](https://github.com/PetrusBorges/JStack-MyContacts)<br/>
 ▫ [Outros Projetos](https://github.com/PetrusBorges?tab=repositories)<br/>
 ▫ [Front End Brisalabs PokeAPI](https://desafio-front-end-brisalabs-poke-api.vercel.app)<br/>
