@@ -22,14 +22,6 @@ Trabalho e conheço: <br/>
 💻 Portfólio: https://petrusborges.vercel.app <br/>
 🌍 Linkedin: https://www.linkedin.com/in/petrusborgesmachado/
 
-▫ Portfólio 💻
-
-▫ [Nubank](https://nubank-gilt.vercel.app)<br/>
-▫ [WAITERAPP](https://github.com/PetrusBorges/WAITERAPP)<br/>
-▫ [MyContacts](https://github.com/PetrusBorges/JStack-MyContacts)<br/>
-▫ [Outros Projetos](https://github.com/PetrusBorges?tab=repositories)<br/>
-▫ [Front End Brisalabs PokeAPI](https://desafio-front-end-brisalabs-poke-api.vercel.app)<br/>
-
 ##
 
 ▫ Favorite Libraries 🔥
