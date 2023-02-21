@@ -12,8 +12,8 @@ Gosto muito de empreendedorismo e programar, no meu tempo livre aproveito para t
 
 Trabalho e conheço: <br/>
 
- ▫ Front-end: HTML5, CSS3, UI/UX Motion Designer, SASS, Bootstrap, Bulma, JavaScript, TypeScript, React, React Native; <br/>
- ▫ Back-end: Node.js; <br/>
+ ▫ Front-end: HTML5, CSS3, UI/UX Motion Designer, SASS, Bootstrap, Bulma, JavaScript, TypeScript, React, React Native, Storybook, Vite, Next.js; <br/>
+ ▫ Back-end: Node.js + Express; <br/>
  ▫ Automatização: Webpack; <br/>
  ▫ Base de dados: PostgreSQL, MongoDB, Docker; <br/>
  ▫ Gerenciamento de projetos: Scrum; <br/>
