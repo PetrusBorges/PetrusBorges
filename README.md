@@ -31,6 +31,7 @@ Trabalho e conheço: <br/>
 ▫ [React TILT](https://github.com/jonathandion/react-tilt)<br/>
 ▫ [React AOS](https://github.com/michalsnik/aos)<br/>
 ▫ [React GSAP](https://github.com/bitworking/react-gsap)<br/>
+▫ [React FORM](https://react-hook-form.com)<br/>
 ▫ [React AXIOS](https://github.com/axios/axios)<br/>
 ▫ [React SWIPER](https://github.com/nolimits4web/swiper)<br/>
 ▫ [React SPRING](https://react-spring.dev/#introduction)<br/>
