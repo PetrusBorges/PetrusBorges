@@ -6,17 +6,17 @@
 
 Sobre:
 
-Programador autodidata, atualmente desenvolve tecnologias completas em Full-Stack, possui forte atuação em JavaScript, TypeScript, React.js e React Native, com um sólido conhecimento de Front-End.
+Programador autodidata, atualmente desenvolve tecnologias completas em Full-Stack, possui forte atuação em JavaScript, TypeScript, Vue.js, React.js, React Native e Node.js Express com um sólido conhecimento de Front-End.
 
 Gosto muito de empreendedorismo e programar, no meu tempo livre aproveito para trabalhar e aperfeiçoar meu entendimento em práticas de programação focada em Full-Stack.
 
-Trabalho e conheço: <br/>
+Trabalho e conheço:
 
- ▫ Front-end: HTML5, CSS3, UI/UX Motion Designer, SASS, Bootstrap, Bulma, JavaScript, TypeScript, React, React Native, Storybook, Vite, Next.js; <br/>
- ▫ Back-end: Node.js + Express; <br/>
- ▫ Automatização: Webpack; <br/>
- ▫ Base de dados: PostgreSQL, MongoDB, Docker; <br/>
- ▫ Gerenciamento de projetos: Scrum; <br/>
+▫ Front-end: HTML5, CSS3, UI/UX Motion Designer, SASS, Bootstrap, Bulma, JavaScript, TypeScript, Vue.js React.js, React Native, Storybook, Vite, Next.js; <br/>
+▫ Back-end: Node.js + Express; <br/>
+▫ Automatização: Webpack; <br/>
+▫ Base de dados: PostgreSQL, MongoDB, Docker; <br/>
+▫ Gerenciamento de projetos: Scrum; <br/>
 
 ✉️ E-mail: contatopetrusborges@gmail.com <br/>
 💻 Portfólio: https://petrusborgesportfolio.netlify.app <br/>
