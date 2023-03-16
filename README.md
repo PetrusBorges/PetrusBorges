@@ -33,6 +33,7 @@ Trabalho e conheço:
 ▫ [React GSAP](https://github.com/bitworking/react-gsap)<br/>
 ▫ [React FORM](https://react-hook-form.com)<br/>
 ▫ [React AXIOS](https://github.com/axios/axios)<br/>
+▫ [React REDUX](https://redux.js.org)<br/>
 ▫ [React SWIPER](https://github.com/nolimits4web/swiper)<br/>
 ▫ [React SPRING](https://react-spring.dev/#introduction)<br/>
 ▫ [React TOASTIFY](https://yarnpkg.com/package/react-toastify)<br/>
