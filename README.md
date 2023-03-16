@@ -12,7 +12,7 @@ Gosto muito de empreendedorismo e programar, no meu tempo livre aproveito para t
 
 Trabalho e conheço:
 
-▫ Front-end: HTML5, CSS3, UI/UX Motion Designer, SASS, Bootstrap, Bulma, JavaScript, TypeScript, Vue.js, React.js, React Native, Storybook, Vite, Next.js; <br/>
+▫ Front-end: HTML5, CSS3, UI/UX Motion Designer, SASS, Bootstrap, Bulma, JavaScript, TypeScript, Vue.js, React.js, React Native, Redux, Storybook, Vite, Next.js; <br/>
 ▫ Back-end: Node.js + Express; <br/>
 ▫ Automatização: Webpack; <br/>
 ▫ Base de dados: PostgreSQL, MongoDB, Docker, Prisma; <br/>
@@ -66,6 +66,7 @@ Trabalho e conheço:
   <img align="center" alt="Petrus-GITHUB" height="30" width="30" src="/assets/GitHub.png">
   <img align="center" alt="Petrus-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Petrus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Petrus-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
   <img align="center" alt="Petrus-NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Petrus-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Petrus-MONGODB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
