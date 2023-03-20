@@ -12,7 +12,7 @@ Gosto muito de empreendedorismo e programar, no meu tempo livre aproveito para t
 
 Trabalho e conheço:
 
-▫ Front-end: HTML5, CSS3, UI/UX Motion Designer, SASS, Bootstrap, Bulma, JavaScript, TypeScript, Vue.js, React.js, React Native, Redux, Storybook, Vite, Next.js; <br/>
+▫ Front-end: HTML5, CSS3, UI/UX Motion Designer, SASS, Bootstrap, Bulma, JavaScript, TypeScript, Vue.js, React.js, React Native, React Query, Redux, Storybook, Vite, Next.js; <br/>
 ▫ Back-end: Node.js + Express; <br/>
 ▫ Automatização: Webpack; <br/>
 ▫ Base de dados: PostgreSQL, MongoDB, Docker, Prisma; <br/>
@@ -34,6 +34,7 @@ Trabalho e conheço:
 ▫ [React FORM](https://react-hook-form.com)<br/>
 ▫ [React AXIOS](https://github.com/axios/axios)<br/>
 ▫ [React REDUX](https://redux.js.org)<br/>
+▫ [React QUERY](https://react-query-v3.tanstack.com)<br/>
 ▫ [React SWIPER](https://github.com/nolimits4web/swiper)<br/>
 ▫ [React SPRING](https://react-spring.dev/#introduction)<br/>
 ▫ [React TOASTIFY](https://yarnpkg.com/package/react-toastify)<br/>
@@ -68,6 +69,7 @@ Trabalho e conheço:
   <img align="center" alt="Petrus-STORYBOOK" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg">
   <img align="center" alt="Petrus-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Petrus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Petrus-Query" height="30" width="35" src="https://user-images.githubusercontent.com/105453766/226477814-e25cd403-e787-4298-9979-652375601892.png">
   <img align="center" alt="Petrus-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
   <img align="center" alt="Petrus-NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Petrus-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
