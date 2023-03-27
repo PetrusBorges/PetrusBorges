@@ -37,6 +37,7 @@ Trabalho e conheço:
 ▫ [React QUERY](https://react-query-v3.tanstack.com)<br/>
 ▫ [React SWIPER](https://github.com/nolimits4web/swiper)<br/>
 ▫ [React SPRING](https://react-spring.dev/#introduction)<br/>
+▫ [React MANTINE](https://mantine.dev)<br/>
 ▫ [React TOASTIFY](https://yarnpkg.com/package/react-toastify)<br/>
 ▫ [React PROP-TYPES](https://www.npmjs.com/package/prop-types)<br/>
 ▫ [React JSON SERVER](https://github.com/typicode/json-server)<br/>
