@@ -16,7 +16,7 @@ Trabalho e conheço:
 ▫ Back-end: Node.js + Express; <br/>
 ▫ Automatização: Webpack; <br/>
 ▫ Base de dados: PostgreSQL, MongoDB, Docker, Prisma; <br/>
-▫ Gerenciamento de projetos: Scrum; <br/>
+▫ Gerenciamento de projetos: Scrum, Kanban; <br/>
 
 ✉️ E-mail: contatopetrusborges@gmail.com <br/>
 💻 Portfólio: https://petrusborgesportfolio.netlify.app <br/>
