@@ -75,6 +75,8 @@ Trabalho e conheço:
   <img align="center" alt="Petrus-STORYBOOK" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg">
   <img align="center" alt="Petrus-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Petrus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Petrus-VITE" height="30" width="30" src="https://user-images.githubusercontent.com/105453766/228204405-b9e4e775-e3e0-4e27-b519-3da47960b8ac.png">
+  <img align="center" alt="Petrus-NEXT" height="30" width="30" src="https://user-images.githubusercontent.com/105453766/228205273-25062219-d78c-42bf-bd72-e633a3c46d8b.svg">
   <img align="center" alt="Petrus-Query" height="30" width="35" src="https://user-images.githubusercontent.com/105453766/226477814-e25cd403-e787-4298-9979-652375601892.png">
   <img align="center" alt="Petrus-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
   <img align="center" alt="Petrus-NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
