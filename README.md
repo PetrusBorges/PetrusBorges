@@ -38,6 +38,7 @@ Trabalho e conheço:
 ▫ [React SWIPER](https://github.com/nolimits4web/swiper)<br/>
 ▫ [React SPRING](https://react-spring.dev/#introduction)<br/>
 ▫ [React MANTINE](https://mantine.dev)<br/>
+▫ [React TAILWIND](https://tailwindcss.com)<br/>
 ▫ [React TOASTIFY](https://yarnpkg.com/package/react-toastify)<br/>
 ▫ [React PROP-TYPES](https://www.npmjs.com/package/prop-types)<br/>
 ▫ [React JSON SERVER](https://github.com/typicode/json-server)<br/>
@@ -63,6 +64,8 @@ Trabalho e conheço:
   <img align="center" alt="Petrus-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Petrus-BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Petrus-BULMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg">
+  <img align="center" alt="Petrus-MANTINE" height="30" width="40" src="https://user-images.githubusercontent.com/105453766/228110608-2ff3ba3f-b925-4aef-bba1-9bac27599733.svg">
+  <img align="center" alt="Petrus-TAILWIND" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="Petrus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Petrus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Petrus-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
