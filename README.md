@@ -39,6 +39,7 @@ Trabalho e conheço:
 ▫ [React SPRING](https://react-spring.dev/#introduction)<br/>
 ▫ [React ZUSTAND](https://github.com/pmndrs/zustand)<br/>
 ▫ [React MANTINE](https://mantine.dev)<br/>
+▫ [React SPINNERS](https://www.davidhu.io/react-spinners/)<br/>
 ▫ [React TAILWIND](https://tailwindcss.com)<br/>
 ▫ [React TOASTIFY](https://yarnpkg.com/package/react-toastify)<br/>
 ▫ [React HOT TOAST](https://react-hot-toast.com)<br/>
