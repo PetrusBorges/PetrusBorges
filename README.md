@@ -41,6 +41,7 @@ Trabalho e conheço:
 ▫ [React MANTINE](https://mantine.dev)<br/>
 ▫ [React TAILWIND](https://tailwindcss.com)<br/>
 ▫ [React TOASTIFY](https://yarnpkg.com/package/react-toastify)<br/>
+▫ [React HOT TOAST](https://react-hot-toast.com)<br/>
 ▫ [React PROP-TYPES](https://www.npmjs.com/package/prop-types)<br/>
 ▫ [React MATERIAL UI](https://mui.com)<br/>
 ▫ [React JSON SERVER](https://github.com/typicode/json-server)<br/>
