@@ -37,12 +37,12 @@ Trabalho e conheço:
 ▫ [React QUERY](https://react-query-v3.tanstack.com)<br/>
 ▫ [React SWIPER](https://github.com/nolimits4web/swiper)<br/>
 ▫ [React SPRING](https://react-spring.dev/#introduction)<br/>
+▫ [React TOASTIFY](https://yarnpkg.com/package/react-toastify)<br/>
 ▫ [React ZUSTAND](https://github.com/pmndrs/zustand)<br/>
+▫ [React TAILWIND](https://tailwindcss.com)<br/>
 ▫ [React MANTINE](https://mantine.dev)<br/>
 ▫ [React SPINNERS](https://www.davidhu.io/react-spinners/)<br/>
 ▫ [React DROPZONE](https://react-dropzone.js.org)<br/>
-▫ [React TAILWIND](https://tailwindcss.com)<br/>
-▫ [React TOASTIFY](https://yarnpkg.com/package/react-toastify)<br/>
 ▫ [React HOT TOAST](https://react-hot-toast.com)<br/>
 ▫ [React PROP-TYPES](https://www.npmjs.com/package/prop-types)<br/>
 ▫ [React MATERIAL UI](https://mui.com)<br/>
