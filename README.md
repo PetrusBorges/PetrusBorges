@@ -26,7 +26,10 @@ Trabalho e conheço:
 
 ##
 
-▫ Favorite Libraries 🔥
+<details>
+<summary>
+ Favorite Libraries <img align="center" alt="Petrus-React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</summary>
 
 ▫ [React TILT](https://github.com/jonathandion/react-tilt)<br/>
 ▫ [React AOS](https://github.com/michalsnik/aos)<br/>
@@ -51,6 +54,7 @@ Trabalho e conheço:
 ▫ [React STYLED-COMPONENTS](https://styled-components.com)<br/>
 ▫ [Storybook](https://storybook.js.org)<br/>
 ▫ [Check Updates](https://www.npmjs.com/package/npm-check-updates)<br/>
+</details>
 
 ##
   
