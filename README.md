@@ -28,7 +28,7 @@ Trabalho e conheço:
 
 <details>
  <summary>
-  My Favorite Libraries using React.js;
+  My favorite libraries using React.js;
  </summary>
 
  ▫ [React TILT](https://github.com/jonathandion/react-tilt)<br/>
