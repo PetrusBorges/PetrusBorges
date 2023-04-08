@@ -27,33 +27,33 @@ Trabalho e conheço:
 ##
 
 <details>
-<summary>
- Favorite Libraries <img align="center" alt="Petrus-React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</summary>
+ <summary>
+  My Favorite Libraries using React.js;
+ </summary>
 
-▫ [React TILT](https://github.com/jonathandion/react-tilt)<br/>
-▫ [React AOS](https://github.com/michalsnik/aos)<br/>
-▫ [React GSAP](https://github.com/bitworking/react-gsap)<br/>
-▫ [React FORM](https://react-hook-form.com)<br/>
-▫ [React AXIOS](https://github.com/axios/axios)<br/>
-▫ [React REDUX](https://redux.js.org)<br/>
-▫ [React QUERY](https://react-query-v3.tanstack.com)<br/>
-▫ [React SWIPER](https://github.com/nolimits4web/swiper)<br/>
-▫ [React SPRING](https://react-spring.dev/#introduction)<br/>
-▫ [React TOASTIFY](https://yarnpkg.com/package/react-toastify)<br/>
-▫ [React ZUSTAND](https://github.com/pmndrs/zustand)<br/>
-▫ [React TAILWIND](https://tailwindcss.com)<br/>
-▫ [React MANTINE](https://mantine.dev)<br/>
-▫ [React SPINNERS](https://www.davidhu.io/react-spinners/)<br/>
-▫ [React DROPZONE](https://react-dropzone.js.org)<br/>
-▫ [React HOT TOAST](https://react-hot-toast.com)<br/>
-▫ [React PROP-TYPES](https://www.npmjs.com/package/prop-types)<br/>
-▫ [React MATERIAL UI](https://mui.com)<br/>
-▫ [React JSON SERVER](https://github.com/typicode/json-server)<br/>
-▫ [React ROUTER-DOM](https://www.npmjs.com/package/react-router-dom)<br/>
-▫ [React STYLED-COMPONENTS](https://styled-components.com)<br/>
-▫ [Storybook](https://storybook.js.org)<br/>
-▫ [Check Updates](https://www.npmjs.com/package/npm-check-updates)<br/>
+ ▫ [React TILT](https://github.com/jonathandion/react-tilt)<br/>
+ ▫ [React AOS](https://github.com/michalsnik/aos)<br/>
+ ▫ [React GSAP](https://github.com/bitworking/react-gsap)<br/>
+ ▫ [React FORM](https://react-hook-form.com)<br/>
+ ▫ [React AXIOS](https://github.com/axios/axios)<br/>
+ ▫ [React REDUX](https://redux.js.org)<br/>
+ ▫ [React QUERY](https://react-query-v3.tanstack.com)<br/>
+ ▫ [React SWIPER](https://github.com/nolimits4web/swiper)<br/>
+ ▫ [React SPRING](https://react-spring.dev/#introduction)<br/>
+ ▫ [React TOASTIFY](https://yarnpkg.com/package/react-toastify)<br/>
+ ▫ [React ZUSTAND](https://github.com/pmndrs/zustand)<br/>
+ ▫ [React TAILWIND](https://tailwindcss.com)<br/>
+ ▫ [React MANTINE](https://mantine.dev)<br/>
+ ▫ [React SPINNERS](https://www.davidhu.io/react-spinners/)<br/>
+ ▫ [React DROPZONE](https://react-dropzone.js.org)<br/>
+ ▫ [React HOT TOAST](https://react-hot-toast.com)<br/>
+ ▫ [React PROP-TYPES](https://www.npmjs.com/package/prop-types)<br/>
+ ▫ [React MATERIAL UI](https://mui.com)<br/>
+ ▫ [React JSON SERVER](https://github.com/typicode/json-server)<br/>
+ ▫ [React ROUTER-DOM](https://www.npmjs.com/package/react-router-dom)<br/>
+ ▫ [React STYLED-COMPONENTS](https://styled-components.com)<br/>
+ ▫ [Storybook](https://storybook.js.org)<br/>
+ ▫ [Check Updates](https://www.npmjs.com/package/npm-check-updates)<br/>
 </details>
 
 ##
