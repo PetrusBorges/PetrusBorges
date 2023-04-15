@@ -22,6 +22,8 @@ Trabalho e conheço:
 💻 Portfólio: https://petrusborgesportfolio.netlify.app <br/>
 🌍 Linkedin: https://www.linkedin.com/in/petrusborgesmachado/
 
+<img height="33rem" src="https://user-images.githubusercontent.com/105453766/232208185-c36afdda-3e40-4df7-9a0c-0bb71743798a.svg"/>
+
 <br/><br/><br/>
 
 ##
