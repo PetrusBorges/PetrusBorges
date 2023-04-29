@@ -27,10 +27,6 @@
 
 ##
 
-<a href="https://app.daily.dev/petrusborges">
- <img src="https://api.daily.dev/devcards/f2207aaf6baa4794be59fbfa6f1571d1.png?r=w66" align="right" width="350" alt="Petrus Borges Machado's Dev Card"/>
-</a>
-
 Sobre:
 
 Programador autodidata, atualmente desenvolve tecnologias completas em Full-Stack, possui forte atuação em JavaScript, TypeScript, Vue.js, React.js, React Native e Node.js Express com um sólido conhecimento de Front-End.
