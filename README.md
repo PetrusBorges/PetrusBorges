@@ -27,8 +27,6 @@
 
 ##
 
-Sobre:
-
 Programador autodidata, atualmente desenvolve tecnologias completas em Full-Stack, possui forte atuação em JavaScript, TypeScript, Vue.js, React.js, React Native e Node.js Express com um sólido conhecimento de Front-End.
 
 Gosto muito de empreendedorismo e programar, no meu tempo livre aproveito para trabalhar e aperfeiçoar meu entendimento em práticas de programação focada em Full-Stack.
