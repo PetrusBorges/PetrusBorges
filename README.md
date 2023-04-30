@@ -76,6 +76,14 @@ Trabalho e conheço:
  ▫ [Check Updates](https://www.npmjs.com/package/npm-check-updates)<br/>
 </details>
 
+<details>
+ <summary>
+  My favorite Books;
+ </summary>
+
+ ▫ A Quietude é a Chave - Ryan Holliday | Stillness is the Key - Ryan Holliday<br/>
+</details>
+
 ##
   
 <div align="center">
