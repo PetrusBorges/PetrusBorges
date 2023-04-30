@@ -47,7 +47,7 @@ Trabalho e conheço:
 
 <details>
  <summary>
-  My favorite libraries using React.js;
+  My favorite libraries using React.js:
  </summary>
 
  ▫ [React TILT](https://github.com/jonathandion/react-tilt)<br/>
@@ -78,7 +78,7 @@ Trabalho e conheço:
 
 <details>
  <summary>
-  My favorite Books;
+  My favorite Books:
  </summary>
 
  ▫ A Quietude é a Chave - Ryan Holiday | Stillness is the Key - Ryan Holiday<br/>
