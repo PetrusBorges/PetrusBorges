@@ -82,6 +82,7 @@ Trabalho e conheço:
  </summary>
 
  ▫ A Quietude é a Chave - Ryan Holliday | Stillness is the Key - Ryan Holliday<br/>
+ ▫ As cinco virtudes essenciais - Bob Deutsch | The 5 Essentials - Bob Deutsch<br/>
 </details>
 
 ##
