@@ -65,6 +65,7 @@ Trabalho e conheço:
  ▫ [React SPINNERS](https://www.davidhu.io/react-spinners/)<br/>
  ▫ [React DROPZONE](https://react-dropzone.js.org)<br/>
  ▫ [React HOT TOAST](https://react-hot-toast.com)<br/>
+ ▫ [React SHADCN/UI](https://ui.shadcn.com)<br/>
  ▫ [React PROP-TYPES](https://www.npmjs.com/package/prop-types)<br/>
  ▫ [React MATERIAL UI](https://mui.com)<br/>
  ▫ [React JSON SERVER](https://github.com/typicode/json-server)<br/>
