@@ -38,7 +38,7 @@ Trabalho e conheço:
 ▫ Project management: Scrum, Kanban; <br/>
 
 ✉️ E-mail: contatopetrusborges@gmail.com <br/>
-💻 Portfólio: https://petrusborgesportfolio.netlify.app <br/>
+💻 Portfolio: https://petrusborgesportfolio.netlify.app <br/>
 🌍 Linkedin: https://www.linkedin.com/in/petrusborgesmachado/
 
 ##
