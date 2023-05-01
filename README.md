@@ -34,7 +34,7 @@ Trabalho e conheço:
 
 ▫ Front-end: HTML5, CSS3, UI/UX Motion Designer, SASS, Bootstrap, Bulma, Mantine, Tailwind, Material UI, JavaScript, TypeScript, Storybook, Vue.js, React.js, React Native, React Query, Redux, Vite, Next.js; <br/>
 ▫ Back-end: Node.js + Express; <br/>
-▫ Datebase: PostgreSQL, MongoDB, Docker, Prisma; <br/>
+▫ Database: PostgreSQL, MongoDB, Docker, Prisma; <br/>
 ▫ Project management: Scrum, Kanban; <br/>
 
 ✉️ E-mail: contatopetrusborges@gmail.com <br/>
