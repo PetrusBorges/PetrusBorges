@@ -78,6 +78,15 @@ Trabalho e conheço:
 
 <details>
  <summary>
+  My favorite libraries using Vue.js:
+ </summary>
+
+ ▫ [VUE ANIMATE](https://animate.style)<br/>
+ ▫ [VUE TINY EMITTER](https://www.npmjs.com/package/tiny-emitter)<br/>
+</details>
+
+<details>
+ <summary>
   My favorite Books:
  </summary>
 
