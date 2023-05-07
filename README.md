@@ -47,7 +47,7 @@ Trabalho e conheço:
  <summary>
   My favorite libraries using React.js:
  </summary>
-
+  
  ▫ [React TILT](https://github.com/jonathandion/react-tilt)<br/>
  ▫ [React AOS](https://github.com/michalsnik/aos)<br/>
  ▫ [React GSAP](https://github.com/bitworking/react-gsap)<br/>
@@ -80,7 +80,9 @@ Trabalho e conheço:
  <summary>
   My favorite libraries using Vue.js:
  </summary>
-
+  
+ ▫ [VUE GSAP](https://greensock.com/gsap/)<br/>
+ ▫ [VUE TROISJS](https://troisjs.github.io)<br/>
  ▫ [VUE ANIMATE](https://animate.style)<br/>
  ▫ [VUE TINY EMITTER](https://www.npmjs.com/package/tiny-emitter)<br/>
 </details>
