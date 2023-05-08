@@ -93,8 +93,9 @@ Trabalho e conheço:
  </summary>
 
  ▫ A Quietude é a Chave - Ryan Holiday | Stillness is the Key - Ryan Holiday<br/>
- ▫ Quando - Daniel Pink | When - Daniel Pink<br/>
+ ▫ O Ego é Seu Inimigo - Ryan Holiday | Ego Is the Enemy - Ryan Holiday<br/>
  ▫ As cinco virtudes essenciais - Bob Deutsch | The 5 Essentials - Bob Deutsch<br/>
+ ▫ Quando - Daniel Pink | When - Daniel Pink<br/>
 </details>
 
 ##
