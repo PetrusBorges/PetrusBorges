@@ -84,6 +84,7 @@ Trabalho e conheço:
  </summary>
   
  ▫ [VUE GSAP](https://greensock.com/gsap/)<br/>
+ ▫ [VUE MASKA](https://beholdr.github.io/maska/#/)<br/>
  ▫ [VUE TROISJS](https://troisjs.github.io)<br/>
  ▫ [VUE ANIMATE](https://animate.style)<br/>
  ▫ [VUE CAROUSEL](https://ismail9k.github.io/vue3-carousel/)<br/>
