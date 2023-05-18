@@ -53,6 +53,7 @@ Trabalho e conheço:
  ▫ [React GSAP](https://github.com/bitworking/react-gsap)<br/>
  ▫ [React FORM](https://react-hook-form.com)<br/>
  ▫ [React AXIOS](https://github.com/axios/axios)<br/>
+ ▫ [React EMAIL](https://react.email)<br/>
  ▫ [React REDUX](https://redux.js.org)<br/>
  ▫ [React QUERY](https://react-query-v3.tanstack.com)<br/>
  ▫ [React SWIPER](https://github.com/nolimits4web/swiper)<br/>
@@ -74,6 +75,7 @@ Trabalho e conheço:
  ▫ [React STYLED-COMPONENTS](https://styled-components.com)<br/>
  ▫ [Storybook](https://storybook.js.org)<br/>
  ▫ [Check Updates](https://www.npmjs.com/package/npm-check-updates)<br/>
+ ▫ [Dub](https://dub.sh)<br/>
 </details>
 
 <details>
