@@ -28,10 +28,12 @@
 
 ##
 
-Self-taught programmer, currently developing complete Full-Stack technologies, with a strong expertise in JavaScript, TypeScript, Vue.js, React.js, React Native, Next.js and NestJS, i have a solid knowledge of Front-End.
+Front End Developer with 1 year of experience in creating mobile apps and software. I actively contributed to the development of more than 7 web applications such as Front End, using technologies such as React and Vue.js. Also, I had the opportunity to participate in the creation of 3 mobile apps using React Native.
+I worked on web and mobile systems projects for companies like Vasco, Eldorado Prime, Xerife do Carro, Bahia APP, Global SCM and Pé de Podologia.
 
-I really enjoy entrepreneurship and programming, and in my free time, I take advantage of it to work and improve my understanding of Full-Stack programming practices.
-Trabalho e conheço:
+Currently working as a Front End Developer at Bluelogic Sistemas e Consultoria. I have strong experience in JavaScript, TypeScript, Vue.js, React.js, React Native, Next.js and NestJS.
+
+I work with:
 
 ▫ Front-end: HTML5, CSS3, UI/UX Motion Designer, SASS, Bootstrap, Bulma, Mantine, Tailwind, Material UI, JavaScript, TypeScript, Storybook, Vue.js, React.js, React Native, React Query, Redux, Vite, Next.js; <br/>
 ▫ Back-end: NestJS, Node.js, Express; <br/>
