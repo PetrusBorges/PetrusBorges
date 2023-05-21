@@ -28,7 +28,7 @@
 
 ##
 
-Self-taught programmer, currently developing complete Full-Stack technologies, with a strong expertise in JavaScript, TypeScript, Vue.js, React.js, React Native, and Node.js Express, and a solid knowledge of Front-End.
+Self-taught programmer, currently developing complete Full-Stack technologies, with a strong expertise in JavaScript, TypeScript, Vue.js, React.js, React Native, Next.js and NestJS, i have a solid knowledge of Front-End.
 
 I really enjoy entrepreneurship and programming, and in my free time, I take advantage of it to work and improve my understanding of Full-Stack programming practices.
 Trabalho e conheço:
