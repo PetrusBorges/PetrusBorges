@@ -19,6 +19,7 @@
   <img align="center" alt="Petrus-Query" height="20" width="25" src="https://user-images.githubusercontent.com/105453766/226477814-e25cd403-e787-4298-9979-652375601892.png">
   <img align="center" alt="Petrus-Redux" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
   <img align="center" alt="Petrus-NODEJS" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Petrus-NESTJS" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="Petrus-SQL" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Petrus-MONGODB" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Petrus-DOCKER" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
@@ -33,7 +34,7 @@ I really enjoy entrepreneurship and programming, and in my free time, I take adv
 Trabalho e conheço:
 
 ▫ Front-end: HTML5, CSS3, UI/UX Motion Designer, SASS, Bootstrap, Bulma, Mantine, Tailwind, Material UI, JavaScript, TypeScript, Storybook, Vue.js, React.js, React Native, React Query, Redux, Vite, Next.js; <br/>
-▫ Back-end: Node.js + Express; <br/>
+▫ Back-end: NestJS, Node.js, Express; <br/>
 ▫ Database: PostgreSQL, MongoDB, Docker, Prisma; <br/>
 ▫ Project management: Scrum, Kanban; <br/>
 
