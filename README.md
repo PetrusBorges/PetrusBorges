@@ -72,6 +72,7 @@ I work with:
  ▫ [React SHADCN/UI](https://ui.shadcn.com)<br/>
  ▫ [React PROP-TYPES](https://www.npmjs.com/package/prop-types)<br/>
  ▫ [React MATERIAL UI](https://mui.com)<br/>
+ ▫ [React NATIVEWIND](https://www.nativewind.dev/quick-starts/react-native-cli)<br/>
  ▫ [React JSON SERVER](https://github.com/typicode/json-server)<br/>
  ▫ [React ROUTER-DOM](https://www.npmjs.com/package/react-router-dom)<br/>
  ▫ [React NEXT CLOUDINARY](https://next-cloudinary.spacejelly.dev)<br/>
