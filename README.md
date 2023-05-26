@@ -95,17 +95,6 @@ I work with:
  ▫ [VUE TINY EMITTER](https://www.npmjs.com/package/tiny-emitter)<br/>
 </details>
 
-<details>
- <summary>
-  My favorite Books:
- </summary>
-
- ▫ A Quietude é a Chave - Ryan Holiday | Stillness is the Key - Ryan Holiday<br/>
- ▫ O Ego é Seu Inimigo - Ryan Holiday | Ego Is the Enemy - Ryan Holiday<br/>
- ▫ As cinco virtudes essenciais - Bob Deutsch | The 5 Essentials - Bob Deutsch<br/>
- ▫ Quando - Daniel Pink | When - Daniel Pink<br/>
-</details>
-
 ##
   
 <div align="center">
