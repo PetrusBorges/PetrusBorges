@@ -48,6 +48,19 @@ I work with:
 
 <details>
  <summary>
+  My favorite libraries using Vue.js:
+ </summary>
+  
+ ▫ [VUE GSAP](https://greensock.com/gsap/)<br/>
+ ▫ [VUE MASKA](https://beholdr.github.io/maska/#/)<br/>
+ ▫ [VUE TROISJS](https://troisjs.github.io)<br/>
+ ▫ [VUE ANIMATE](https://animate.style)<br/>
+ ▫ [VUE CAROUSEL](https://ismail9k.github.io/vue3-carousel/)<br/>
+ ▫ [VUE TINY EMITTER](https://www.npmjs.com/package/tiny-emitter)<br/>
+</details>
+
+<details>
+ <summary>
   My favorite libraries using React.js:
  </summary>
   
@@ -88,19 +101,6 @@ I work with:
  </summary>
   
  ▫ [React Native SWIPER](https://github.com/leecade/react-native-swiper)<br/>
-</details>
-
-<details>
- <summary>
-  My favorite libraries using Vue.js:
- </summary>
-  
- ▫ [VUE GSAP](https://greensock.com/gsap/)<br/>
- ▫ [VUE MASKA](https://beholdr.github.io/maska/#/)<br/>
- ▫ [VUE TROISJS](https://troisjs.github.io)<br/>
- ▫ [VUE ANIMATE](https://animate.style)<br/>
- ▫ [VUE CAROUSEL](https://ismail9k.github.io/vue3-carousel/)<br/>
- ▫ [VUE TINY EMITTER](https://www.npmjs.com/package/tiny-emitter)<br/>
 </details>
 
 ##
