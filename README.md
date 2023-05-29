@@ -101,6 +101,7 @@ I work with:
  </summary>
   
  ▫ [React Native SWIPER](https://github.com/leecade/react-native-swiper)<br/>
+ ▫ [React Native MASK TEXT](https://github.com/akinncar/react-native-mask-text)<br/>
 </details>
 
 ##
