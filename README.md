@@ -84,6 +84,14 @@ I work with:
 
 <details>
  <summary>
+  My favorite libraries using React Native:
+ </summary>
+  
+ ▫ [React Native SWIPER](https://github.com/leecade/react-native-swiper)<br/>
+</details>
+
+<details>
+ <summary>
   My favorite libraries using Vue.js:
  </summary>
   
