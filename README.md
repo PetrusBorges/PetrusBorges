@@ -110,5 +110,4 @@ I work with:
   <a href="https://github.com/PetrusBorges">
   <img height="145em" src="http://github-readme-streak-stats.herokuapp.com?user=PetrusBorges&theme=dark"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetrusBorges&layout=compact&langs_count=7&theme=dark"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=PetrusBorges&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
