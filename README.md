@@ -76,6 +76,7 @@ I work with:
  ▫ [React SWIPER](https://github.com/nolimits4web/swiper)<br/>
  ▫ [React SPRING](https://react-spring.dev/#introduction)<br/>
  ▫ [React LEAFLET](https://react-leaflet.js.org)<br/>
+ ▫ [React RADIX UI](https://www.radix-ui.com)<br/>
  ▫ [React TOASTIFY](https://yarnpkg.com/package/react-toastify)<br/>
  ▫ [React ZUSTAND](https://github.com/pmndrs/zustand)<br/>
  ▫ [React TAILWIND](https://tailwindcss.com)<br/>
