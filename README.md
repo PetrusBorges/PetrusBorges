@@ -24,6 +24,7 @@
   <img align="center" alt="Petrus-MONGODB" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Petrus-DOCKER" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
  <img align="center" alt="Petrus-PRISMA" height="20" width="30" src="https://raw.githubusercontent.com/prisma/presskit/d48363389f2f2014ebab94ca3065ff86e5165e12/Assets/Prisma-LightSymbol.svg">
+  <img align="center" alt="Petrus-SUPABASE" height="20" width="30" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg">
 </div>
 
 ##
@@ -37,7 +38,7 @@ I work with:
 
 ▫ Front-end: HTML5, CSS3, UI/UX Motion Designer, SASS, Bootstrap, Bulma, Mantine, Tailwind, Material UI, JavaScript, TypeScript, Storybook, Vue.js, React.js, React Native, React Query, Redux, Vite, Next.js; <br/>
 ▫ Back-end: NestJS, Node.js, Express; <br/>
-▫ Database: PostgreSQL, MongoDB, Docker, Prisma; <br/>
+▫ Database: PostgreSQL, MongoDB, Docker, Prisma, Supabase; <br/>
 ▫ Project management: Scrum, Kanban; <br/>
 
 ✉️ E-mail: contatopetrusborges@gmail.com <br/>
