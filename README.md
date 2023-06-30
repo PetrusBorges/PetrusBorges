@@ -29,7 +29,7 @@
 
 ##
 
-Front End Developer with 1 year of experience in creating mobile apps and software. I actively contributed to the development of more than 10 web applications as Front End, using technologies such as React, Vue.js and NestJS. Also, I had the opportunity to participate in the creation of 7 mobiles applications using React Native.
+Front End Developer with 1 year of experience in creating mobile apps and software. I actively contributed to the development of more than 12 web applications as Front End, using technologies such as React, Vue.js and NestJS. Also, I had the opportunity to participate in the creation of 7 mobiles applications using React Native.
 I worked on web and mobile systems projects for companies like Vasco, Eldorado Prime, Xerife do Carro, Bahia APP, Global SCM and Pé de Podologia.
 
 Currently working as a Front End Developer at Bluelogic Sistemas e Consultoria. I have strong experience in JavaScript, TypeScript, Vue.js, React.js, React Native, Next.js and NestJS.
