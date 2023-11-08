@@ -92,6 +92,7 @@ I work with:
  ▫ [React NATIVEWIND](https://www.nativewind.dev/quick-starts/react-native-cli)<br/>
  ▫ [React JSON SERVER](https://github.com/typicode/json-server)<br/>
  ▫ [React ROUTER-DOM](https://www.npmjs.com/package/react-router-dom)<br/>
+ ▫ [React MUI SCHEDULER](https://github.com/rouftom/react-mui-scheduler)<br/>
  ▫ [React NEXT CLOUDINARY](https://next-cloudinary.spacejelly.dev)<br/>
  ▫ [React STYLED-COMPONENTS](https://styled-components.com)<br/>
  ▫ [Storybook](https://storybook.js.org)<br/>
