@@ -41,7 +41,7 @@ I work with:
 ▫ Project management: Scrum, Kanban; <br/>
 
 ✉️ E-mail: contatopetrusborges@gmail.com <br/>
-💻 Portfolio: https://petrusborgesportfolio.netlify.app <br/>
+💻 Portfolio: https://my-personal-portfolio2-0.vercel.app <br/>
 🌍 Linkedin: https://www.linkedin.com/in/petrusborgesmachado/
 
 ##
