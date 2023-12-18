@@ -75,7 +75,7 @@ I work with:
  ▫ [React SWIPER](https://github.com/nolimits4web/swiper)<br/>
  ▫ [React SPRING](https://react-spring.dev/#introduction)<br/>
  ▫ [React LEAFLET](https://react-leaflet.js.org)<br/>
- ▫ [React RADIX UI](https://www.radix-ui.com)<br/>
+ ▫ [React RADIX UI ⭐](https://www.radix-ui.com)<br/>
  ▫ [React TOASTIFY](https://yarnpkg.com/package/react-toastify)<br/>
  ▫ [React ZUSTAND](https://github.com/pmndrs/zustand)<br/>
  ▫ [React TAILWIND](https://tailwindcss.com)<br/>
@@ -83,7 +83,7 @@ I work with:
  ▫ [React SPINNERS](https://www.davidhu.io/react-spinners/)<br/>
  ▫ [React DROPZONE](https://react-dropzone.js.org)<br/>
  ▫ [React HOT TOAST](https://react-hot-toast.com)<br/>
- ▫ [React SHADCN/UI](https://ui.shadcn.com)<br/>
+ ▫ [React SHADCN/UI ⭐](https://ui.shadcn.com)<br/>
  ▫ [React DAY PICKER](https://react-day-picker.js.org)<br/>
  ▫ [React USE SOUND](https://github.com/joshwcomeau/use-sound)<br/>
  ▫ [React PROP-TYPES](https://www.npmjs.com/package/prop-types)<br/>
