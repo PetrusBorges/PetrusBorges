@@ -114,6 +114,14 @@ I work with:
  ▫ [React Native MASKED TEXT](https://github.com/bhrott/react-native-masked-text#readme)<br/>
 </details>
 
+<details>
+ <summary>
+  My favorite hooks react:
+ </summary>
+  
+ ▫ [SWR](https://swr.vercel.app/pt-BR)<br/>
+</details>
+
 ##
   
 <div align="center">
