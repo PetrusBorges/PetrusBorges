@@ -120,6 +120,9 @@ I work with:
  </summary>
   
  ▫ [SWR](https://swr.vercel.app/pt-BR)<br/>
+ ▫ [ahooks](https://ahooks.js.org)<br/>
+ ▫ [useHooks](https://usehooks.com)<br/>
+ ▫ [useHooks TypeScript](https://usehooks-ts.com)<br/>
 </details>
 
 ##
