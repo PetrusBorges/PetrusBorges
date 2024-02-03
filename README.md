@@ -91,6 +91,7 @@ I work with:
  ▫ [React HEADLESS UI ⭐](https://headlessui.com)<br/>
  ▫ [React NATIVEWIND](https://www.nativewind.dev/quick-starts/react-native-cli)<br/>
  ▫ [React JSON SERVER](https://github.com/typicode/json-server)<br/>
+ ▫ [React ESLINT HOOK](https://www.npmjs.com/package/eslint-plugin-react-hooks)<br/>
  ▫ [React ROUTER-DOM](https://www.npmjs.com/package/react-router-dom)<br/>
  ▫ [React FULL CALENDAR](https://github.com/fullcalendar/fullcalendar-react)<br/>
  ▫ [React MUI SCHEDULER](https://github.com/rouftom/react-mui-scheduler)<br/>
