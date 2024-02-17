@@ -117,7 +117,7 @@ I work with:
 
 <details>
  <summary>
-  My favorite hooks react:
+  My favorite hooks React:
  </summary>
   
  ▫ [SWR](https://swr.vercel.app/pt-BR)<br/>
