@@ -5,8 +5,8 @@
   <img align="center" alt="Petrus-BOOTSTRAP" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Petrus-BULMA" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg">
   <img align="center" alt="Petrus-MANTINE" height="20" width="30" src="https://user-images.githubusercontent.com/105453766/228110608-2ff3ba3f-b925-4aef-bba1-9bac27599733.svg">
-  <img align="center" alt="Petrus-TAILWIND" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" alt="Petrus-MUI" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg">
+  <img align="center" alt="Petrus-TAILWIND" height="20" width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042">
+  <img align="center" alt="Petrus-MUI" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg">
   <img align="center" alt="Petrus-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Petrus-Ts" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Petrus-GIT" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
@@ -19,7 +19,7 @@
   <img align="center" alt="Petrus-Query" height="20" width="25" src="https://user-images.githubusercontent.com/105453766/226477814-e25cd403-e787-4298-9979-652375601892.png">
   <img align="center" alt="Petrus-Redux" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
   <img align="center" alt="Petrus-NODEJS" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Petrus-NESTJS" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="Petrus-NESTJS" height="20" width="30" src="https://nestjs.com/logo-small.ede75a6b.svg">
   <img align="center" alt="Petrus-SQL" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Petrus-MONGODB" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Petrus-DOCKER" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
