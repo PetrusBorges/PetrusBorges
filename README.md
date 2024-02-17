@@ -97,6 +97,7 @@ I work with:
  ▫ [React MUI SCHEDULER](https://github.com/rouftom/react-mui-scheduler)<br/>
  ▫ [React MUI DATATABLES](https://github.com/gregnb/mui-datatables)<br/>
  ▫ [React NEXT CLOUDINARY](https://next-cloudinary.spacejelly.dev)<br/>
+ ▫ [React TAILWIND ANIMATE](https://www.npmjs.com/package/tailwindcss-animate)<br/>
  ▫ [React STYLED-COMPONENTS](https://styled-components.com)<br/>
  ▫ [React HOOK FORM](https://github.com/react-hook-form)<br/>
  ▫ [React HOOK FORM RESOLVERS](https://github.com/react-hook-form/resolvers)<br/>
