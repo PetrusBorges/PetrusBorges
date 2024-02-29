@@ -72,6 +72,7 @@ I work with:
  ▫ [React EMAIL](https://react.email)<br/>
  ▫ [React REDUX](https://redux.js.org)<br/>
  ▫ [React QUERY](https://react-query-v3.tanstack.com)<br/>
+ ▫ [React LOTTIE ⭐⭐⭐](https://www.npmjs.com/package/react-lottie-player)<br/>
  ▫ [React SWIPER](https://github.com/nolimits4web/swiper)<br/>
  ▫ [React SPRING](https://react-spring.dev/#introduction)<br/>
  ▫ [React LEAFLET](https://react-leaflet.js.org)<br/>
