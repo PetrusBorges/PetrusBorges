@@ -71,7 +71,6 @@ I work with:
  ▫ [React AXIOS](https://github.com/axios/axios)<br/>
  ▫ [React EMAIL](https://react.email)<br/>
  ▫ [React REDUX](https://redux.js.org)<br/>
- ▫ [React QUERY](https://react-query-v3.tanstack.com)<br/>
  ▫ [React LOTTIE ⭐⭐⭐](https://www.npmjs.com/package/react-lottie-player)<br/>
  ▫ [React SWIPER](https://github.com/nolimits4web/swiper)<br/>
  ▫ [React SPRING](https://react-spring.dev/#introduction)<br/>
@@ -96,6 +95,8 @@ I work with:
  ▫ [React ROUTER-DOM](https://www.npmjs.com/package/react-router-dom)<br/>
  ▫ [React FULL CALENDAR](https://github.com/fullcalendar/fullcalendar-react)<br/>
  ▫ [React MUI SCHEDULER](https://github.com/rouftom/react-mui-scheduler)<br/>
+ ▫ [React TANSTACK QUERY ⭐⭐⭐⭐⭐](https://tanstack.com/query/latest/)<br/>
+ ▫ [React TANSTACK TABLE ⭐⭐⭐⭐⭐](https://tanstack.com/table/latest)<br/>
  ▫ [React MUI DATATABLES](https://github.com/gregnb/mui-datatables)<br/>
  ▫ [React NEXT CLOUDINARY](https://next-cloudinary.spacejelly.dev)<br/>
  ▫ [React TAILWIND ANIMATE](https://www.npmjs.com/package/tailwindcss-animate)<br/>
