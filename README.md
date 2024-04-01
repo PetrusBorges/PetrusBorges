@@ -95,9 +95,9 @@ I work with:
  ▫ [React ROUTER-DOM](https://www.npmjs.com/package/react-router-dom)<br/>
  ▫ [React FULL CALENDAR](https://github.com/fullcalendar/fullcalendar-react)<br/>
  ▫ [React MUI SCHEDULER](https://github.com/rouftom/react-mui-scheduler)<br/>
- ▫ [React TANSTACK QUERY ⭐⭐⭐⭐⭐](https://tanstack.com/query/latest/)<br/>
- ▫ [React TANSTACK TABLE ⭐⭐⭐⭐⭐](https://tanstack.com/table/latest)<br/>
  ▫ [React MUI DATATABLES](https://github.com/gregnb/mui-datatables)<br/>
+ ▫ [React TANSTACK TABLE ⭐⭐⭐⭐⭐](https://tanstack.com/table/latest)<br/>
+ ▫ [React TANSTACK QUERY ⭐⭐⭐⭐⭐](https://tanstack.com/query/latest/)<br/>
  ▫ [React NEXT CLOUDINARY](https://next-cloudinary.spacejelly.dev)<br/>
  ▫ [React TAILWIND ANIMATE](https://www.npmjs.com/package/tailwindcss-animate)<br/>
  ▫ [React STYLED-COMPONENTS](https://styled-components.com)<br/>
