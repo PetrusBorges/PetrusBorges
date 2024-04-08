@@ -103,6 +103,7 @@ I work with:
  ▫ [React STYLED-COMPONENTS](https://styled-components.com)<br/>
  ▫ [React HOOK FORM](https://github.com/react-hook-form)<br/>
  ▫ [React HOOK FORM RESOLVERS](https://github.com/react-hook-form/resolvers)<br/>
+ ▫ [React NEXTJS INTERNATIONALIZATION](https://next-intl-docs.vercel.app)<br/>
  ▫ [Storybook](https://storybook.js.org)<br/>
  ▫ [Check Updates](https://www.npmjs.com/package/npm-check-updates)<br/>
  ▫ [Dub](https://dub.sh)<br/>
