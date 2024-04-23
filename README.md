@@ -84,6 +84,8 @@ I work with:
  ▫ [React DROPZONE](https://react-dropzone.js.org)<br/>
  ▫ [React HOT TOAST](https://react-hot-toast.com)<br/>
  ▫ [React SHADCN/UI ⭐⭐⭐⭐](https://ui.shadcn.com)<br/>
+ ▫ [React SHADCN/UI PHONE INPUT ⭐⭐⭐⭐](https://shadcn-phone-input.vercel.app)<br/>
+ ▫ [React SHADCN/UI COLOR PICKER ⭐⭐⭐⭐]([https://shadcn-phone-input.vercel.app](https://gradientpicker.vercel.app))<br/>
  ▫ [React DAY PICKER](https://react-day-picker.js.org)<br/>
  ▫ [React USE SOUND](https://github.com/joshwcomeau/use-sound)<br/>
  ▫ [React PROP-TYPES](https://www.npmjs.com/package/prop-types)<br/>
