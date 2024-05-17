@@ -109,6 +109,7 @@ I work with:
  ▫ [Storybook](https://storybook.js.org)<br/>
  ▫ [Check Updates](https://www.npmjs.com/package/npm-check-updates)<br/>
  ▫ [Dub](https://dub.sh)<br/>
+ ▫ [Framer Motion](https://www.framer.com/motion/)<br/>
 </details>
 
 <details>
