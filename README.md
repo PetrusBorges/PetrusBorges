@@ -120,7 +120,7 @@ I work with:
  ▫ [React Native SWIPER](https://github.com/leecade/react-native-swiper)<br/>
  ▫ [React Native NAVIGATION](https://reactnavigation.org)<br/>
  ▫ [React Native MASKED TEXT](https://github.com/bhrott/react-native-masked-text#readme)<br/>
- ▫ [React Native DatePicker](https://github.com/farhoudshapouran/react-native-ui-datepicker)<br/>
+ ▫ [React Native Calendars](https://github.com/wix/react-native-calendars)<br/>
 </details>
 
 <details>
