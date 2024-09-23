@@ -23,7 +23,7 @@
   <img align="center" alt="Petrus-SQL" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Petrus-MONGODB" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Petrus-DOCKER" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
- <img align="center" alt="Petrus-PRISMA" height="20" width="30" src="https://raw.githubusercontent.com/prisma/presskit/d48363389f2f2014ebab94ca3065ff86e5165e12/Assets/Prisma-LightSymbol.svg">
+  <img align="center" alt="Petrus-PRISMA" height="20" width="30" src="https://raw.githubusercontent.com/prisma/presskit/d48363389f2f2014ebab94ca3065ff86e5165e12/Assets/Prisma-LightSymbol.svg">
   <img align="center" alt="Petrus-SUPABASE" height="20" width="30" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg">
 </div>
 
