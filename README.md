@@ -119,10 +119,11 @@ I work with:
  
  ▫ [React Native CLI](https://github.com/react-native-community/cli)<br/>
  ▫ [React Native SWIPER](https://github.com/leecade/react-native-swiper)<br/>
- ▫ [React Native NAVIGATION](https://reactnavigation.org)<br/>
  ▫ [React Native MASKED TEXT](https://github.com/bhrott/react-native-masked-text#readme)<br/>
  ▫ [React Native Calendars](https://github.com/wix/react-native-calendars)<br/>
  ▫ [React Native Input Phone](https://github.com/garganurag893/react-native-phone-number-input/tree/master)<br/>
+ ▫ [React Native Shimer Placeholder](https://www.npmjs.com/package/react-native-shimmer-placeholder/v/1.0.33)<br/>
+ ▫ [Google Sign In](https://react-native-google-signin.github.io)<br/>
 </details>
 
 <details>
