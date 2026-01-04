@@ -1,8 +1,10 @@
 ##
 
-Full Stack and Mobile Developer with 1 year and 5 months of experience creating mobile applications and software. I actively contributed to the development of more than 13 web applications as Front End using technologies such as React, Vue.js and NestJS. Furthermore, i had the opportunity to participate in the creation of 7 mobile applications using React Native. I worked on web and mobile systems projects for companies in Brazil such as Eldorado Prime, Xerife do Carro, Global SCM and the United States such as HomeShine.
+Frontend & Mobile Developer with 4 years of experience building scalable web and mobile applications. Actively contributed to the development of 16+ web applications as a Frontend Engineer using React.js, Next.js, Vue.js, TypeScript, and JavaScript. Also participated in the development of 8 mobile applications using React Native, focusing on performance, usability, and clean architecture.
 
-Currently working as a Full Stack Developer at Bluelogic Sistemas e Consultoria. I have strong experience in JavaScript, TypeScript, React.js, React Native, Next.js, Vue.js and NestJS.
+Currently working as a Frontend Developer at Capo Viagens, an application that enables national and international transactions for purchasing airline tickets, booking residential rentals, and renting cars, offering the best travel packages.
+
+I have strong expertise in JavaScript, TypeScript, React.js, React Native, Next.js, Vue.js, and NestJS.
 
 I work with:
 
