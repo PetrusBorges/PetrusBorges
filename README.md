@@ -18,9 +18,3 @@ I work with:
 🌍 Linkedin: https://www.linkedin.com/in/petrusborgesmachado/
 
 ##
-  
-<div align="center">
-  <a href="https://github.com/PetrusBorges">
-  <img height="145em" src="http://github-readme-streak-stats.herokuapp.com?user=PetrusBorges&theme=dark"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetrusBorges&layout=compact&langs_count=7&theme=dark"/>
-</div>
